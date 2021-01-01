@@ -16,6 +16,13 @@
   align-items: center;
 }
 
+.main a {
+  color: #eff0f1;
+  text-decoration: none;
+  font-size: large;
+  padding: 2rem;
+}
+
 .footer {
   width: 100%;
   height: 100px;
