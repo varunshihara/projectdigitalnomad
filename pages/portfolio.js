@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Link from "next/link";
 import styles from "../styles/Home.module.css";
 
 export default function Portfolio() {
@@ -11,6 +12,9 @@ export default function Portfolio() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Hi! I am Varun Shihara.</h1>
+        <Link href="">
+          <a>Home</a>
+        </Link>
       </main>
     </div>
   );
