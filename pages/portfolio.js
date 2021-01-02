@@ -12,7 +12,7 @@ export default function Portfolio() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Hi! I am Varun Shihara.</h1>
-        <Link href="">
+        <Link href="/">
           <a>Home</a>
         </Link>
       </main>
