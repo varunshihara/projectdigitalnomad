@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Welcome to Project Digital Nomad!</h1>
+        <h1 className={styles.title}>Project Digital Nomad!</h1>
         <Link href="/portfolio">
           <a>Portfolio</a>
         </Link>
