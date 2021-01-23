@@ -19,7 +19,7 @@ const BaseContainer = (props) => {
             </li>
             <li>
               <Link href="/portfolio">
-                <a>Portfolio</a>
+                <a>Places</a>
               </Link>
             </li>
           </ul>
